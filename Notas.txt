@@ -1,0 +1,35 @@
+
+Tabler Icons: Para buscar iconos
+Google Fonts: Para buscar tipos de letras
+CSSmatic: No sayuda a hacer efectos
+
+Secion 36 (06/06/2024):
+min-width: 480px
+Se utiliza cuando es un telefono
+
+min-width: 768px
+Se utiliza para cuando es una tablet
+
+min-width: 1140px 
+Se utiliza para computadora o laptop
+
+min-width: 1400px
+Se utiliza para computadoras grandes (Maximo)
+
+Secion 38 (06/06/2024):
+El tamaño de lo que se muestra en pantalla esta delimitado
+por cuatro cosas: 
+tamaño de contenido
+tamaño de relleno (padding)
+tamaño del borde
+margen
+
+Secion 39 (07/06/2024):
+background-color: rgba(0, 0, 0, .7); 
+Anterior sintaxis para poner color trasnparente
+
+background-color: rgb(0, 0, 0 / 70%);
+Nueva sintaxis para poner color trasnparente
+
+nth-child(#) nos permite seleccionar el elemento 
+el cual usa una clase
